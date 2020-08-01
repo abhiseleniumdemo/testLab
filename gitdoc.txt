@@ -1,3 +1,7 @@
 Adding some new content with updates
 Making some change from GitHub
+<<<<<<< HEAD
 Some more changes from GitHub Repo
+=======
+Some more changes from GitHub Repo
+>>>>>>> f3a08b78b7d4b6a553be8d99b9bcea39b6c1f2ef
