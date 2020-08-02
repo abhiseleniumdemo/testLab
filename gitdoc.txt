@@ -1,3 +1,4 @@
 Adding some new content with updates
 Making some change from GitHub
 Some more changes from GitHub Repo
+git merge examples
