@@ -2,3 +2,14 @@ git init
 git add .
 git commit -m "message"
 git push origin master
+
+a) to create a stash - git stash save "message"
+b) view the stashed - git stash list
+c) retrive stashed changes - 
+	1) apply changes and leave a copy in stash - git stash apply <stashid>
+	2) apply the changes and remove from stash - git stash pop <stash id>
+d) delete the stash
+	1) remove the stashed changes - git stash drop <stash id>
+	2) remove the entire stash - git stash clear
+
+
